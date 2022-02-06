@@ -2,4 +2,4 @@
 
 echo "*****Building guards******"
 
-npx ts-auto-guard ./index.d.ts --export-all
+npx ts-auto-guard ./src/index.d.ts --export-all

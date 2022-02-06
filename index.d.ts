@@ -3,4 +3,4 @@ export * from "./src/files.d"
 export * from "./src/base.d"
 
 // Guards
-export * from "./index.guard"
+export * from "./src/index.guard"
