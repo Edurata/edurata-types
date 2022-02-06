@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Edurata/edurata-types/issues"
   },
-  "homepage": "https://github.com/Edurata/edurata-types#readme"
+  "homepage": "https://github.com/Edurata/edurata-types#readme",
+  "dependencies": {
+    "ts-auto-guard": "^2.2.1"
+  }
 }
