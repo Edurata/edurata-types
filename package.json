@@ -1,0 +1,19 @@
+{
+  "name": "@edurata/types",
+  "version": "0.0.3",
+  "description": "typescript types used by nodejs functions",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edurata/edurata-types.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edurata/edurata-types/issues"
+  },
+  "homepage": "https://github.com/Edurata/edurata-types#readme"
+}
