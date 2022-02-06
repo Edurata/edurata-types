@@ -1,4 +1,5 @@
-type FileStr = `file:${string}`
+// type FileStr = `file:${string}`
+type FileStr = string
 
 export type File = {
     path: string // e.g. /path/to/file/
