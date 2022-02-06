@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "*****Building guards******"
+
+npx ts-auto-guard ./index.d.ts --export-all
